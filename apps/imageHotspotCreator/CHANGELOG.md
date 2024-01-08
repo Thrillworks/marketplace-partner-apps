@@ -1,5 +1,42 @@
 # Changelog
 
+## [1.0.7](https://github.com/Thrillworks/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.6...image-hotspot-creator-v1.0.7) (2024-01-08)
+
+
+### Bug Fixes
+
+* delete .circlect directoy ([#443](https://github.com/Thrillworks/marketplace-partner-apps/issues/443)) ([b28677a](https://github.com/Thrillworks/marketplace-partner-apps/commit/b28677a412fbd5b603492ea7afe1ef5a8f4a8e72))
+* **deps:** bump @contentful/f36-components from 4.45.0 to 4.54.5 ([#527](https://github.com/Thrillworks/marketplace-partner-apps/issues/527)) ([9c4f2ba](https://github.com/Thrillworks/marketplace-partner-apps/commit/9c4f2ba7ab429da82638416a34eee6cb881421f6))
+* **deps:** bump @contentful/f36-components from 4.54.5 to 4.56.2 ([#578](https://github.com/Thrillworks/marketplace-partner-apps/issues/578)) ([0d9c45f](https://github.com/Thrillworks/marketplace-partner-apps/commit/0d9c45f96ecd14bf4689d8d11da0bbccd6e46307))
+* **deps:** bump @contentful/f36-components from 4.56.2 to 4.57.0 ([#657](https://github.com/Thrillworks/marketplace-partner-apps/issues/657)) ([e1a2264](https://github.com/Thrillworks/marketplace-partner-apps/commit/e1a226405fd012d9ebb5c8e94eb8cedeaae48174))
+* **deps:** bump @contentful/f36-tokens from 4.0.2 to 4.0.3 ([#582](https://github.com/Thrillworks/marketplace-partner-apps/issues/582)) ([c3f146e](https://github.com/Thrillworks/marketplace-partner-apps/commit/c3f146eeccaad79af389e4175d35f9d3a2cb9c56))
+* **deps:** bump @emotion/react from 11.11.1 to 11.11.3 ([#632](https://github.com/Thrillworks/marketplace-partner-apps/issues/632)) ([4f56764](https://github.com/Thrillworks/marketplace-partner-apps/commit/4f56764b878d7cf16fcc27ecf1e08460c9508fc5))
+* **deps:** bump @mui/icons-material from 5.14.16 to 5.14.19 ([#545](https://github.com/Thrillworks/marketplace-partner-apps/issues/545)) ([a2abc16](https://github.com/Thrillworks/marketplace-partner-apps/commit/a2abc16a64b72cf00f8e392717926e79644cdadd))
+* **deps:** bump @mui/icons-material from 5.14.19 to 5.15.0 ([#590](https://github.com/Thrillworks/marketplace-partner-apps/issues/590)) ([ea9df37](https://github.com/Thrillworks/marketplace-partner-apps/commit/ea9df37e328930bb0766d81ab4ee29905bd47ba9))
+* **deps:** bump @mui/icons-material from 5.15.0 to 5.15.1 ([#616](https://github.com/Thrillworks/marketplace-partner-apps/issues/616)) ([c638de5](https://github.com/Thrillworks/marketplace-partner-apps/commit/c638de5a7fbc41905992eea03e563764e5043f57))
+* **deps:** bump @mui/icons-material from 5.15.1 to 5.15.2 ([#635](https://github.com/Thrillworks/marketplace-partner-apps/issues/635)) ([0f7fc14](https://github.com/Thrillworks/marketplace-partner-apps/commit/0f7fc14ec6142f0dee3d07d9405d40038ef63e27))
+* **deps:** bump @mui/icons-material from 5.15.2 to 5.15.3 ([#660](https://github.com/Thrillworks/marketplace-partner-apps/issues/660)) ([0f91856](https://github.com/Thrillworks/marketplace-partner-apps/commit/0f918566807029bd5f82d189a8d4de3d988d1592))
+* **deps:** bump @mui/material from 5.14.17 to 5.14.20 ([#553](https://github.com/Thrillworks/marketplace-partner-apps/issues/553)) ([362fd6f](https://github.com/Thrillworks/marketplace-partner-apps/commit/362fd6fbfd4a2451fdf08fc4b75783f650a1e471))
+* **deps:** bump @mui/material from 5.14.20 to 5.15.0 ([#592](https://github.com/Thrillworks/marketplace-partner-apps/issues/592)) ([bae0739](https://github.com/Thrillworks/marketplace-partner-apps/commit/bae0739e1ff7dea29932bd7b3259368920c4637c))
+* **deps:** bump @mui/material from 5.14.20 to 5.15.1 ([#619](https://github.com/Thrillworks/marketplace-partner-apps/issues/619)) ([7d8aa6d](https://github.com/Thrillworks/marketplace-partner-apps/commit/7d8aa6de16da13ec94f4f2cac7730945351398ee))
+* **deps:** bump @mui/material from 5.15.1 to 5.15.2 ([#637](https://github.com/Thrillworks/marketplace-partner-apps/issues/637)) ([76d37d2](https://github.com/Thrillworks/marketplace-partner-apps/commit/76d37d283f771b408696c56d9bfdbc984ea24540))
+* **deps:** bump @mui/material from 5.15.2 to 5.15.3 ([#659](https://github.com/Thrillworks/marketplace-partner-apps/issues/659)) ([deb7780](https://github.com/Thrillworks/marketplace-partner-apps/commit/deb7780e4eaea859268d134b7aa23a09833843a3))
+* **deps:** bump axios from 1.5.1 to 1.6.2 ([#459](https://github.com/Thrillworks/marketplace-partner-apps/issues/459)) ([1b4c36a](https://github.com/Thrillworks/marketplace-partner-apps/commit/1b4c36a20c1f634894da2e7572620d4e4750190d))
+* **deps:** bump axios from 1.6.0 to 1.6.2 ([#541](https://github.com/Thrillworks/marketplace-partner-apps/issues/541)) ([824b3ce](https://github.com/Thrillworks/marketplace-partner-apps/commit/824b3cebfa8ebcf11498afc2d503d6bd2a4a165e))
+* **deps:** bump axios from 1.6.2 to 1.6.3 ([#640](https://github.com/Thrillworks/marketplace-partner-apps/issues/640)) ([8c1a0c3](https://github.com/Thrillworks/marketplace-partner-apps/commit/8c1a0c3e626590ad4438f7ed14d6d4cc1e6ea8d9))
+* **deps:** bump axios from 1.6.3 to 1.6.4 ([#655](https://github.com/Thrillworks/marketplace-partner-apps/issues/655)) ([0c6bc15](https://github.com/Thrillworks/marketplace-partner-apps/commit/0c6bc15edc9a1d597de9bc1a17ce59172ec45d16))
+* **deps:** bump axios from 1.6.4 to 1.6.5 ([#664](https://github.com/Thrillworks/marketplace-partner-apps/issues/664)) ([84f11ab](https://github.com/Thrillworks/marketplace-partner-apps/commit/84f11ab91bcc3ff3a47ae7810827750383dd3c6e))
+* **deps:** bump contentful from 10.6.14 to 10.6.15 ([#641](https://github.com/Thrillworks/marketplace-partner-apps/issues/641)) ([eb93ae5](https://github.com/Thrillworks/marketplace-partner-apps/commit/eb93ae5e56c6fa409d03344e8ee075aef6df81eb))
+* **deps:** bump contentful from 10.6.15 to 10.6.16 ([#662](https://github.com/Thrillworks/marketplace-partner-apps/issues/662)) ([8ff5015](https://github.com/Thrillworks/marketplace-partner-apps/commit/8ff5015f10d762945bdc893a89dbbe8451eea3a2))
+* **deps:** bump contentful from 10.6.5 to 10.6.14 ([#547](https://github.com/Thrillworks/marketplace-partner-apps/issues/547)) ([c306c3f](https://github.com/Thrillworks/marketplace-partner-apps/commit/c306c3f71df5069751149e9f834a7804eacc5cd0))
+* **deps:** bump contentful-management from 10.38.4 to 10.46.4 ([#524](https://github.com/Thrillworks/marketplace-partner-apps/issues/524)) ([dbe9418](https://github.com/Thrillworks/marketplace-partner-apps/commit/dbe9418e478c196431e5a79f53e929c4e4196cd5))
+* **deps:** bump styled-components from 5.3.1 to 5.3.11 ([#613](https://github.com/Thrillworks/marketplace-partner-apps/issues/613)) ([5439666](https://github.com/Thrillworks/marketplace-partner-apps/commit/54396662305c946e6fbaf751c1ada83634b0ea8e))
+* **deps:** bump styled-components from 6.1.0 to 6.1.1 ([#544](https://github.com/Thrillworks/marketplace-partner-apps/issues/544)) ([b388348](https://github.com/Thrillworks/marketplace-partner-apps/commit/b38834843492d3ec104a01a9d4b84098ee1aa53d))
+* resolve dependency graph conflicts ([#603](https://github.com/Thrillworks/marketplace-partner-apps/issues/603)) ([7da74ae](https://github.com/Thrillworks/marketplace-partner-apps/commit/7da74aefcd77e35833d4f2bcdce0521b83d549af))
+* Update createHotspot.css ([#488](https://github.com/Thrillworks/marketplace-partner-apps/issues/488)) ([432cad0](https://github.com/Thrillworks/marketplace-partner-apps/commit/432cad03993883a683264052af2422071e9fe60d))
+* Update createHotspot.tsx ([#484](https://github.com/Thrillworks/marketplace-partner-apps/issues/484)) ([4ae40f4](https://github.com/Thrillworks/marketplace-partner-apps/commit/4ae40f4365b6f5616160c862a2161425f805ccdf))
+* Update createHotspot.tsx ([#489](https://github.com/Thrillworks/marketplace-partner-apps/issues/489)) ([7e34934](https://github.com/Thrillworks/marketplace-partner-apps/commit/7e349344183954915a80f3df9eae7a0aa1d60ebf))
+
 ## [1.0.6](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.5...image-hotspot-creator-v1.0.6) (2023-12-21)
 
 
